@@ -1,0 +1,27 @@
+=========performance Profiler Report=========
+Profiler Begin time:Tue Apr 28 14:24:09 1931
+
+NO.1, Description:fib
+File:main.cpp, Line:39, Function:main
+ThreadId:-1221376256, CostTime:387, CallCount:1
+Total CostTime:387	Total CallCount:1
+
+NO.2, Description:fib
+File:main.cpp, Line:23, Function:Fib
+ThreadId:-1221376256, CostTime:376, CallCount:177
+Total CostTime:376	Total CallCount:177
+
+NO.4, Description:fuck
+File:main.cpp, Line:17, Function:fuck
+ThreadId:-1229776064, CostTime:5, CallCount:1
+ThreadId:-1221383360, CostTime:3, CallCount:1
+Total CostTime:8	Total CallCount:2
+
+NO.3, Description:test
+File:main.cpp, Line:10, Function:test
+ThreadId:-1229776064, CostTime:154, CallCount:1
+ThreadId:-1221383360, CostTime:144, CallCount:1
+ThreadId:-1221376256, CostTime:46, CallCount:1
+Total CostTime:344	Total CallCount:3
+
+=============================================
